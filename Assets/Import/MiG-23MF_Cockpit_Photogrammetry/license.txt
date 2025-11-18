@@ -1,0 +1,11 @@
+Model Information:
+* title:	MiG-23MF Cockpit Photogrammetry
+* source:	https://sketchfab.com/3d-models/mig-23mf-cockpit-photogrammetry-58cf3d0bccea4f069acde600c2aaced1
+* author:	æck (https://sketchfab.com/aeck2142)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MiG-23MF Cockpit Photogrammetry" (https://sketchfab.com/3d-models/mig-23mf-cockpit-photogrammetry-58cf3d0bccea4f069acde600c2aaced1) by æck (https://sketchfab.com/aeck2142) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
