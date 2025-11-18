@@ -1,4 +1,4 @@
-# Jet Turbine Engine — APK Release README
+# Jet Turbine Engine — APK Release
 
 Version: 1.5.0  
 Platform: Android (APK)
