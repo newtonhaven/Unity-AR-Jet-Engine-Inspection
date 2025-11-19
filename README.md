@@ -7,7 +7,7 @@ Platform: Android (APK)
 This is a Unity AR project using Google ARCore. The APK distributed in Releases lets you view and interact with 3D models (jet turbine, cockpits, etc.) in augmented reality on supported Android devices.
 
 ## Download
-Download the latest APK from the project's Releases page (Assets → app-release.apk).
+Download the latest APK from the project's Releases page.
 
 ## Installation (Android)
 1. On your device enable installation from unknown sources (Settings → Security → Install unknown apps).  
