@@ -44,6 +44,7 @@ All assets are from Sketchfab and used under CC Attribution:
 - [MiG-23MF Cockpit Photogrammetry by aeck2142](https://sketchfab.com/3d-models/mig-23mf-cockpit-photogrammetry-58cf3d0bccea4f069acde600c2aaced1)  
 - [Boeing 737-800 Cockpit by hikami3150](https://sketchfab.com/3d-models/boeing-737-800-cockpit-d463256f98654b36af019d2d88bd5bbe)  
 - [Spacefighter Cockpit (Wasp Interdictor) by Comrade1280](https://sketchfab.com/3d-models/spacefighter-cockpit-wasp-interdictor-db4aa67fe1164ec088083d7dac2d273f)
+- APK logo is made by Canva AI
 
 ## License
 Source code: Licensed under the [MIT License](LICENSE) — see the repository LICENSE file for the full text.
