@@ -1,5 +1,7 @@
 # Jet Turbine Engine — APK Release
 
+![ar gif](ar_display.gif)
+
 Version: 1.5.0  
 Platform: Android (APK)
 
